@@ -1,4 +1,4 @@
-# 🧮 Algoritmo de Matching — StudyMatch
+# 🧮 Algoritmo de Matching — UniMatch
 
 ## Objetivo
 
